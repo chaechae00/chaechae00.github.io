@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: chaechae00 # the main title
 
-tagline: dev blog # it will display as the sub-title
+tagline: 대학원생 공부 기록 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   chae's dev blog.

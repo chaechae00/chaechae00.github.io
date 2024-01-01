@@ -10,3 +10,6 @@ toc_sticky: true
 date: 2024-01-01
 last_modified_at: 2024-01-01 
 ---
+# Info
+2023 NeurIPS에서 발표된 논문.
+
